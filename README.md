@@ -1,6 +1,6 @@
 # hexo-next
 
-**基于 [Hexo](https://hexo.io/zh-cn/) 框架搭建的个人博客，使用 [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) 主题，并在此基础上做了一些优化。博客演示：https://zhx2020.github.io/。**
+**基于 [Hexo](https://hexo.io/zh-cn/) 框架搭建的个人博客，使用 [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) 主题，并在此基础上做了一些优化。博客演示：[https://zhx2020.github.io](https://zhx2020.github.io)。**
 
 **使用方法：**
 1. `star` 本项目
